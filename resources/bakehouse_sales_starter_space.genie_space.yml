@@ -1,0 +1,8 @@
+resources:
+  genie_spaces:
+    bakehouse_sales_starter_space:
+      title: "Bakehouse Sales Starter Space"
+      warehouse_id: 3e5fb7444be6305b
+      file_path: ../src/bakehouse_sales_starter_space.geniespace.json
+      description: Welcome to AI/BI Genie, powered by the fictional bakery sales and inventory data. Here, you can ask natural language questions to uncover insights, review trends, and analyze performance.
+      parent_path: /Workspace/Users/saachi.suvarna@datazymes.com/demo-agent
